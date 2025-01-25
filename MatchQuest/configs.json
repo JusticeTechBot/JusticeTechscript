@@ -1,0 +1,10 @@
+{
+  "limit": 100,
+  "countdown": 300,
+  "country_time": "en-US",
+  "gameBooster": true,
+  "dailyBooster": true,
+  "delayEachAccount": [5, 8],
+  "doTasks": true,
+  "playGames": false
+}
