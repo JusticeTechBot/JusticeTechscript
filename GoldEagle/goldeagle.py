@@ -2,9 +2,9 @@ import time
 from telethon import TelegramClient, events
 
 # Your Telegram API credentials from https://my.telegram.org/apps
-API_ID = "YOUR_API_ID"
-API_HASH = "YOUR_API_HASH"
-PHONE_NUMBER = "YOUR_PHONE_NUMBER"
+API_ID = "28025400"
+API_HASH = "2d38adb4d830565c2afd36a74d79e2c9"
+PHONE_NUMBER = "+2349032578690"
 
 # Target bot username
 BOT_USERNAME = "goldeagle_bot"
